@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/expenseme/static/css/main.093096a9.chunk.css",
+    "main.js": "/expenseme/static/js/main.134e7442.chunk.js",
+    "main.js.map": "/expenseme/static/js/main.134e7442.chunk.js.map",
+    "runtime~main.js": "/expenseme/static/js/runtime~main.236f12d4.js",
+    "runtime~main.js.map": "/expenseme/static/js/runtime~main.236f12d4.js.map",
+    "static/css/2.413b246d.chunk.css": "/expenseme/static/css/2.413b246d.chunk.css",
+    "static/js/2.246b499e.chunk.js": "/expenseme/static/js/2.246b499e.chunk.js",
+    "static/js/2.246b499e.chunk.js.map": "/expenseme/static/js/2.246b499e.chunk.js.map",
+    "index.html": "/expenseme/index.html",
+    "precache-manifest.58658439b4c6f345b0dc504e0447c867.js": "/expenseme/precache-manifest.58658439b4c6f345b0dc504e0447c867.js",
+    "service-worker.js": "/expenseme/service-worker.js",
+    "static/css/2.413b246d.chunk.css.map": "/expenseme/static/css/2.413b246d.chunk.css.map",
+    "static/css/main.093096a9.chunk.css.map": "/expenseme/static/css/main.093096a9.chunk.css.map",
+    "static/media/index.css": "/expenseme/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
